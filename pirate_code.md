@@ -40,4 +40,4 @@ X.    Any man deserting the ship in battle or rewriting history on the
 
 Captain      : Captain Celine
 Quartermaster: Quartermaster Karl
-First mate   : NAME HERE
+First mate   : first mate Chani
